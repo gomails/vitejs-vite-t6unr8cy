@@ -1,0 +1,6 @@
+{
+  "appId": "com.monentreprise.monapp",
+  "appName": "Mon App StackBlitz",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
